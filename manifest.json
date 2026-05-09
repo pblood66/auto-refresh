@@ -9,5 +9,8 @@
   "permissions": [
     "tabs",
     "activeTab"
-  ]
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
 }
